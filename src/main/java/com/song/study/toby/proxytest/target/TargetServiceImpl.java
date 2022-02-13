@@ -1,4 +1,4 @@
-package com.song.study.toby.proxytest.proxy;
+package com.song.study.toby.proxytest.target;
 
 public class TargetServiceImpl implements TargetService {
     @Override

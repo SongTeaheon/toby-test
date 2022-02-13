@@ -1,6 +1,6 @@
 package com.song.study.toby.proxytest.proxy;
 
-import org.aopalliance.intercept.Invocation;
+import com.song.study.toby.proxytest.target.TargetService;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
